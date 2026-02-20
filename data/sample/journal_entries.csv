@@ -1,0 +1,10 @@
+Cycle start time,Cycle end time,Cycle timezone,Question text,Answered yes,Notes
+2026-01-03 00:45:00,2026-01-04 01:10:00,UTC-05:00,Have any alcoholic drinks?,false,
+2026-01-03 00:45:00,2026-01-04 01:10:00,UTC-05:00,Consumed caffeine?,true,
+2026-01-03 00:45:00,2026-01-04 01:10:00,UTC-05:00,Took creatine?,true,
+2026-01-04 01:10:00,2026-01-05 00:50:00,UTC-05:00,Have any alcoholic drinks?,true,
+2026-01-04 01:10:00,2026-01-05 00:50:00,UTC-05:00,Consumed caffeine?,true,
+2026-01-04 01:10:00,2026-01-05 00:50:00,UTC-05:00,Took creatine?,false,
+2026-01-05 00:50:00,2026-01-06 01:20:00,UTC-05:00,Have any alcoholic drinks?,false,
+2026-01-05 00:50:00,2026-01-06 01:20:00,UTC-05:00,Consumed caffeine?,false,
+2026-01-05 00:50:00,2026-01-06 01:20:00,UTC-05:00,Took creatine?,true,
